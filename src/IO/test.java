@@ -15,6 +15,7 @@ import util.Vertex;
 public class test {
 
     public static void main(String[] args) {
+        String a;
         InputText in = new InputText();
         in.open("C:\\Users\\thiag\\Documents\\NetBeansProjects\\WebOptimizer\\src\\IO\\3_2.txt");
         in.read();
